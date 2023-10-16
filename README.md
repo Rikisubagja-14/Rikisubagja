@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riki subagja</h1>
-<h3 align="center">Web & Mobile Developer</h3>
+<h3 align="center">Fullstack Web & Mobile Developer</h3>
 
 
 <br/>
